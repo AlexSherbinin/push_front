@@ -2,3 +2,5 @@
 name = "push_front"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "This crate implements push_front for Rust std::string::String"
